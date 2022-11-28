@@ -1,2 +1,2 @@
 # ejerciciosIA
-#Ejercicios de inteligencia artificial SENATI
+Ejercicios de inteligencia artificial SENATI
